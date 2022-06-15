@@ -1,3 +1,14 @@
+body{
+    background-image: url(https://media.newyorker.com/photos/5f8384c4b3351a3acb584e33/master/w_1600,c_limit/201019_r37200_rd.gif);
+    font-family: sans-serif;
+    align-items: center;
+   font-size: .938rem;
+   font-weight: 400;
+   background-color: rgb(180, 201, 64);
+   text-align:center;
+   
+ }
+
 #title{
     color: rgba(15, 15, 223, 0.952);
       font: Arial;
